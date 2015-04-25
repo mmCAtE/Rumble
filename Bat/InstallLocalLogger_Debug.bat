@@ -1,0 +1,2 @@
+C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\InstallUtil.exe /u D:\output\Services\Debug\LocalLogger.exe
+C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\InstallUtil.exe D:\output\Services\Debug\LocalLogger.exe
